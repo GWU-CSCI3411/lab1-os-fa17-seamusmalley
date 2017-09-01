@@ -1,3 +1,5 @@
+// Seamus Malley
+
 #include "hello.h"
 
 int main( void ) {
